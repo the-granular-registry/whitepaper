@@ -1,10 +1,12 @@
 # Introduction
 
+<figure><img src=".gitbook/assets/GR whitepaper.png" alt=""><figcaption></figcaption></figure>
+
 Amidst the escalating global focus on sustainability, the need for data-driven procurement in the energy sector has reached a critical point. In response, the Clean Incentive introduced the Granular Registry and its methodology. This registry, which promotes transparency, accuracy, and impact, significantly improves the existing Energy Attribute Certificates (EACs) system, ushering in a new era of more impactful climate action.
 
 As adopting carbon-free energy (CFE) gains momentum, a new challenge emerges: ensuring that new CFE projects significantly reduce carbon emissions. While traditional EACs have been effective, they don't fully incentivize and reward the most impactful projects. This is where Granular Certificates (GCs) come in, offering a solution to this crucial problem.
 
-To meet this challenge, industry leaders formed the Granular Registry Advisory Board (GRAB) to create an EAC enhancement methodology. GCs are not just a data layer on top of traditional EAC registries, but GCs also address a weakness in corporate energy procurement. They can help identify and prioritize investments with greater carbon impact. Using an open-source methodology, GCs assign carbon and air pollutant impacts to traditional EACs, considering the time and location of CFE generation on the grid in historical retrospect​​. It offers the ability to make procurement decisions that drive more significant climate impact as companies pursue their clean energy goals.
+Industry leaders formed the Granular Registry Advisory Board (GRAB) to meet this challengeto create an EAC enhancement methodology. GCs are not just a data layer on top of traditional EAC registries, but GCs also address a weakness in corporate energy procurement. They can help identify and prioritize investments with greater carbon impact. Using an open-source methodology, GCs assign carbon and air pollutant impacts to traditional EACs, considering the time and location of CFE generation on the grid in historical retrospect​​. It offers the ability to make procurement decisions that drive more significant climate impact as companies pursue their clean energy goals.
 
 **Today, EACs are limiting grid decarbonization.**
 
@@ -41,7 +43,7 @@ Similarly, EACs produced in regions experiencing an oversupply of renewable ener
 
 ## The Shared Atmosphere: A Unifying Factor for Global EAC Registries
 
-The current EAC and GO landscape is characterized by many separate registries worldwide.  Currently, 40+ EAC or Guaranty of Origin (GO) registries globally have not yet developed standards to integrate emissions impact. Unified standards are unlikely to develop in this fragmented landscape in the near term.
+The current EAC and GO landscape is characterized by many separate registries worldwide. Currently, 40+ EAC or Guaranty of Origin (GO) registries globally have not yet developed standards to integrate emissions impact. Unified standards are unlikely to develop in this fragmented landscape in the near term.
 
 This fragmentation presents a significant challenge for organizations seeking to procure CFE across regions and prioritize carbon impact. It also hinders the transparency and traceability of renewable energy transactions, making it challenging to ensure the integrity of EACs and the associated claims.
 
