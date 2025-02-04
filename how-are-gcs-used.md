@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How are GCs used?
 
 PECs offer critical information tailored to the needs of various stakeholders and procurement strategies, enabling impactful decision-making and promoting sustainability:

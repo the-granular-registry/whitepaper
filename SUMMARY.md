@@ -1,7 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [System Overview](system-overview.md)
 * [What are Granular Certificates?](what-are-granular-certificates.md)
+* [Benefits for Market Participants](benefits-for-market-participants/README.md)
+  * [For Energy Buyers](benefits-for-market-participants/for-energy-buyers.md)
+  * [For Existing REC Registries](benefits-for-market-participants/for-existing-rec-registries.md)
+  * [For Energy Producers](benefits-for-market-participants/for-energy-producers.md)
+  * [For Battery Storage Operators](benefits-for-market-participants/for-battery-storage-operators.md)
 * [How are GCs Issued?](how-are-gcs-issued.md)
 * [Case Study](case-study.md)
 * [Attribute Scorecard](attribute-scorecard.md)

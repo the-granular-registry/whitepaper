@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Potential Future Refinements
 
 ## Energy Storage

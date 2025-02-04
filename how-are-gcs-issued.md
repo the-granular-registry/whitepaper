@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How are GCs Issued?
 
 Creating PECs involves a detailed process that ensures accuracy and reliability in representing the environmental impact of clean energy generation.

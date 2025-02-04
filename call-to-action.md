@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Call to Action
 
 Join the PEC Alliance today! Please participate in our upcoming webinars and contribute to developing and refining the registry methodology. Together, we can make a significant difference in the fight against climate change.
