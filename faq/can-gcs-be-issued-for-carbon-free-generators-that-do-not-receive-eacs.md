@@ -1,4 +1,4 @@
-# Can the Granular Registry issue certificates for CFE sources that don’t already recei
+# Can GCs be issued for carbon‑free generators that do not receive EACs?
 
 **Yes.**\
 Many grids only issue Energy Attribute Certificates (EACs) for _renewable_ technologies, leaving out other carbon-free generators—e.g., nuclear, large-scale hydro, geothermal or emerging zero-carbon fuels. The Granular Registry can still track, trade and retire hourly certificates for those assets by operating under **EnergyTag Configuration #2 (“GC scheme supplements the EAC scheme”)**.
@@ -38,5 +38,24 @@ No certificates are duplicated and market participants keep the same hourly-leve
 
 ***
 
-**Bottom line:**\
 Whether a plant is renewable **or** simply carbon-free, the Granular Registry can provide the complete certificate lifecycle—issuance, transfer, retirement—needed for credible 24/7 and Scope 2 claims, even when the local market has no traditional EAC mechanism in place.
+
+## **Can these stand‑alone GCs be used under the GHG Protocol’s Scope 2&#x20;**_**market‑based**_**&#x20;method?**
+
+**Yes – provided the GC scheme meets the eight Scope 2 Quality Criteria.**\
+A Granular Certificate that follows the EnergyTag Standard already meets those criteria even without an underlying REC/GO:
+
+| GHG Protocol quality criterion | How a GC‑only scheme complies                                                             |
+| ------------------------------ | ----------------------------------------------------------------------------------------- |
+| Legal validity                 | Scheme documented; accepted by local regulator or contractual law.                        |
+| Registry & tracking            | Independent, auditable registry prevents double issue/transfer/use.                       |
+| Exclusive ownership            | Retirement cancels the GC permanently for a single beneficiary.                           |
+| Auditable                      | Third‑party or registry audit of issuance, transfer, cancellation.                        |
+| Vintage                        | Hour‑stamped; falls within the reporting year (or stricter if desired).                   |
+| Geographic relevance           | Certificate generated in the same balancing area as consumption (or per programme rules). |
+| Emission factor                | GC records technology‑specific or zero‑emission factor.                                   |
+| Transparency                   | Scheme rules and retirement evidence available for assurance.                             |
+
+Maintaining the retirement certificates and audit trail allows the reporting entity to enter these GCs in the Scope 2 market‑based column with a **zero** or specified emission factor, exactly as it would for standard RECs/Guarantees of Origin.
+
+**Key takeaway:** Hour‑level GCs created under EnergyTag Configuration #2 _can_ be counted toward Scope 2 targets—even when no traditional REC or GO exists for that generator—so long as the scheme continues to meet the GHG Protocol quality criteria above.
