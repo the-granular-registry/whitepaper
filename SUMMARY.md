@@ -69,6 +69,7 @@
 * [What are RECs?](faq/what-are-recs.md)
 * [What are Power Grid Marginal Emissions?](faq/what-are-power-grid-marginal-emissions.md)
 * [Does the Granular Registry qualify as an "EAC Issuer" under US Hydrogen 45V rules?](faq/does-the-granular-registry-qualify-as-an-eac-issuer-under-us-hydrogen-45v-rules.md)
+* [Can the Granular Registry issue certificates for CFE sources that don’t already recei](faq/can-the-granular-registry-issue-certificates-for-cfe-sources-that-dont-already-recei.md)
 * [What is the difference between attributional and consequential accounting?](faq/what-is-the-difference-between-attributional-and-consequential-accounting.md)
 * [How can Renewable Generators Create Positive Emissions (Negative LMEs)?](faq/how-can-renewable-generators-create-positive-emissions-negative-lmes.md)
 * [Can GCs be used for offsetting?](faq/can-pecs-be-used-for-offsetting.md)
