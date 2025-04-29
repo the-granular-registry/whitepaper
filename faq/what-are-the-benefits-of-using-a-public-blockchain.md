@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What are the benefits of using a public blockchain?
 
 Blockchain-enabled registries can leverage smart contracts to automate various certificate issuance, transfer, and retirement processes. This can streamline the management of these instruments, reduce administrative costs, and improve the overall efficiency of the registry. The new registry can enhance transparency, security, and efficiency, address the limitations of current registries, and provide a robust foundation for scaling up climate action and achieving global decarbonization goals.
