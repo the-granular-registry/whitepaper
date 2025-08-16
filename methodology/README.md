@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Methodology
 
 ## Role and Operation of the Registry <a href="#heading-h.u51bf86x5cd6" id="heading-h.u51bf86x5cd6"></a>
